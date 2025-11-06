@@ -1,0 +1,17 @@
+# Node modules (frontend)
+frontend/node_modules/
+
+# Python virtual environment (backend)
+backend/.venv/
+
+# Build and cache files
+frontend/build/
+__pycache__/
+*.pyc
+
+# Environment files
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
