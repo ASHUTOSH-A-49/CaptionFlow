@@ -1,8 +1,19 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  /* REMOVED: 'max-width: 1280px;' 
+    This was constraining your whole app.
+  */
+  /* REMOVED: 'margin: 0 auto;' 
+    This was centering the 1280px box.
+  */
+  /* REMOVED: 'text-align: center;' 
+    It's better to let components handle their own text alignment.
+  */
+}
+
+body {
+  margin: 0;
+  /* I'm setting the default body background to match your app's bg */
+  background-color: #111827; /* This is bg-gray-900 */
 }
 
 .logo {
