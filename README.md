@@ -362,8 +362,8 @@ See **DEPLOYMENT.md** for detailed cloud deployment instructions.
 
 ## 👥 Contributors
 
-- **Ashutosh Behera** ([@ASHUTOSH-A-49](https://github.com/ASHUTOSH-A-49)) - Backend & Architecture
-- **Rahul Sahu** ([@Rahulsahu7389](https://github.com/Rahulsahu7389)) - Frontend & UI
+- **Ashutosh Behera** ([@ASHUTOSH-A-49](https://github.com/ASHUTOSH-A-49)) and **Rahul Sahu** ([@Rahulsahu7389](https://github.com/Rahulsahu7389)) - Backend & Architecture
+- **Shourya Sinha** ([@ShouryaGit023](https://github.com/Rahulsahu7389))  and - **S Vaibhavi** ([@Vaibhaviii14](https://github.com/Rahulsahu7389))- Frontend & UI
 
 Made with ❤️ by **Bit_Masters** during **CU9.0 2025**
 
